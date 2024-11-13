@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>my blog</title><link>https://flyouhrt.github.io</link><description>好好积累，好好生活</description><copyright>my blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/188063512?v=4&amp;size=64</url><title>avatar</title><link>https://flyouhrt.github.io</link></image><lastBuildDate>Wed, 13 Nov 2024 06:59:13 +0000</lastBuildDate><managingEditor>my blog</managingEditor><ttl>60</ttl><webMaster>my blog</webMaster><item><title>tech-math</title><link>https://flyouhrt.github.io/post/tech-math.html</link><description># 引用&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>my blog</title><link>https://flyouhrt.github.io</link><description>好好积累，好好生活</description><copyright>my blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/188063512?v=4&amp;size=64</url><title>avatar</title><link>https://flyouhrt.github.io</link></image><lastBuildDate>Wed, 13 Nov 2024 07:14:46 +0000</lastBuildDate><managingEditor>my blog</managingEditor><ttl>60</ttl><webMaster>my blog</webMaster><item><title>markdown</title><link>https://flyouhrt.github.io/post/markdown.html</link><description># 引用&#13;
 &#13;
 &gt; 大于号 &#13;
 &#13;
@@ -90,7 +90,7 @@ tab 键上面那个键点3个点···&#13;
 &#13;
 &#13;
 &#13;
-`666`   一行代码里：  `源码模式中两个点里面写`。</description><guid isPermaLink="true">https://flyouhrt.github.io/post/tech-math.html</guid><pubDate>Wed, 13 Nov 2024 06:58:49 +0000</pubDate></item><item><title>github</title><link>https://flyouhrt.github.io/post/github.html</link><description># git使用&#13;
+`666`   一行代码里：  `源码模式中两个点里面写`。</description><guid isPermaLink="true">https://flyouhrt.github.io/post/markdown.html</guid><pubDate>Wed, 13 Nov 2024 06:58:49 +0000</pubDate></item><item><title>github</title><link>https://flyouhrt.github.io/post/github.html</link><description># git使用&#13;
 &#13;
 ## 英文&#13;
 &#13;
